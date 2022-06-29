@@ -2,17 +2,17 @@ exports.private = () =>{
 	return`Fitur hanya bisa di gunakan di private chat`
 	}
 exports.wait = () => {
-    return `⏳ _SABAR YA NGNTD, GA SABAR MATI AJA LO_`
+    return `♨️ Loading Kontol Sabar...`
 }
 exports.ok = () => {
-    return `✅ _NIH ANJENG UDAH, LAIN KALI GAUSAH MANJA NGNTD_`
+    return `Done Kontol...`
 }
 
 exports.err = () => {
-    return `⚠️ Fitur Sedang Error`
+    return `⚠️ Fitur Sedang Error Kontol`
 }
 exports.erorLink = () => {
-    return `⚠️ Link nya error`
+    return `⚠️ Link nya error Kontol`
 }
 exports.media = () => {
     return `Silahkan pilih media yang ingin kamu download`
@@ -34,7 +34,7 @@ exports.cmdNotFound = (cmd, prefix) => {
 }
 
 exports.ownerOnly = () => {
-    return `❎ Command ini khusus Owner`
+    return `Lu Siapa Khusus Owner Bot Kontol!`
 }
 
 exports.doneOwner = () => {
@@ -42,11 +42,11 @@ exports.doneOwner = () => {
 }
 
 exports.groupOnly = () => {
-    return `👥  Command ini hanya bisa digunakan di dalam grup!`
+    return `Fitur Ini Khusus Admin Grup Kontol!`
 }
 
 exports.adminOnly = () => {
-    return `🙅  _Cuma bisa di gunakan oleh admin yang tamvan dan camtik_!`
+    return `Fitur ini Khusus Admin Grup Kontol!`
 }
 
 exports.nhFalse = () => {
@@ -68,7 +68,7 @@ exports.adminAlready = () => {
 }
 
 exports.botNotAdmin = () => {
-    return `GUA BUKAN ADMIN BANGSAT🗿`
+    return `GUA BUKAN ADMIN KONTOL, MAKANYA ADMININ`
 }
 
 exports.received = (pushname) => {
@@ -85,14 +85,14 @@ exports.notNum = (q) => {
     return `"${q}", bukan angka!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hai Anjeng ${pushname} 👋 selamat ${salam} , 
+	return`Hai Kakk ${pushname} 👋 selamat ${salam} , 
 saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu KoKoRey-Md :*
+*📚 List-Menu FahmiBotz-Md :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
