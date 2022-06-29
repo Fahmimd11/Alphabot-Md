@@ -18,21 +18,21 @@ global.autoread = true // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "KokoRey-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ItsmeRey ×፝֟͜×" //nama kalian
-global.myweb ="https://instagram.com/callme_rey1921" //bebas asal jan hapus
-global.youtube = "https://instagram.com/callme_rey1921" //bebas asal jan hapus
-global.github = "https://instagram.com/callme_rey1921" //bebas
-global.email = "kokobot08@gmail.com" //bebas
+global.botname = "FahmiBotz-Md" //namabot kalian
+global.ownername= "FahmiGanss" //nama kalian
+global.myweb ="https://instagram.com/fahmicapital" //bebas asal jan hapus
+global.youtube = "https://instagram.com/fahmicapital" //bebas asal jan hapus
+global.github = "https://instagram.com/fahmicapital" //bebas
+global.email = "sihirgans@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6285232604817" // nomor wa kalian
-global.ownernomerr = "+6285771052661" //nmr wa kalian
+global.ownernomer = "6287822218449" // nomor wa kalian
+global.ownernomerr = "+6285814892306" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285232604817","6285771052661","6285880128927"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© KokoRey-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh KoKoGanz By Rey' //sticker wm ganti nama kalian
+global.owner = ["6287822218449","6285814892306","6287822218449"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© FahmiBotz-Md' //sticker wm ubah
+global.author = 'Owner FahmiGanss' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -42,15 +42,15 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: 'Udah ya anjeng, lain kali gausah manja ngntd',
-    admin: '_Cuma bisa di gunakan oleh admin yang tamvan dan camtik_🗿 !',
-    botAdmin: 'Gua bukan *admin* anjeng!',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh majikan !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
+    sukses: 'Done Kontol...',
+    admin: 'Fitur Ini Khusus Admin Grup Kontol!',
+    botAdmin: 'Gua Bukan Admin Kontol, Makannya Adminin',
+    owner: 'Lu Siapa Fitur Khusus Owner Bot Kontol!',
+    group: 'Perintah Ini Hanya Bisa Digunakan Di Group Kontol!',
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ SABAR NGNTD',
+    wait: '♨️ Sabar Kontol',
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
